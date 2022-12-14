@@ -3,7 +3,7 @@
 //go:build !windows
 // +build !windows
 
-package main
+package fsmbatch
 
 import "go.opentelemetry.io/collector/otelcol"
 

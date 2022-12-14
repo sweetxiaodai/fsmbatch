@@ -1,4 +1,4 @@
-package main
+package fsmbatch
 
 import (
 	"go.opentelemetry.io/collector/component"
