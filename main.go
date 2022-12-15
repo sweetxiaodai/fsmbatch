@@ -4,6 +4,7 @@
 package main
 
 import (
+	"go.opentelemetry.io/collector/cmd/builder/fsmbatch"
 	"log"
 
 	"go.opentelemetry.io/collector/component"
@@ -11,7 +12,7 @@ import (
 )
 
 func main() {
-	factories, err := components()
+	factories, err := fsmbatch.components()
 	if err != nil {
 		log.Fatalf("failed to build components: %v", err)
 	}

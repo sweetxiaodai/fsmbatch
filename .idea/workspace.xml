@@ -5,18 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9522f06-ae2e-49cd-8ba3-7a23ea1ffeba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components.go" beforeDir="false" afterPath="$PROJECT_DIR$/components.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/components_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.go" beforeDir="false" afterPath="$PROJECT_DIR$/fsmbatch/config.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/factory.go" beforeDir="false" afterPath="$PROJECT_DIR$/fsmbatch/factory.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fsmbatch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components.go" beforeDir="false" afterPath="$PROJECT_DIR$/fsmbatch/components.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/fsmbatch/components_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fsmbatch/builder" beforeDir="false" afterPath="$PROJECT_DIR$/fsmbatch/builder" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_others.go" beforeDir="false" afterPath="$PROJECT_DIR$/main_others.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_windows.go" beforeDir="false" afterPath="$PROJECT_DIR$/main_windows.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/processor.go" beforeDir="false" afterPath="$PROJECT_DIR$/fsmbatch/processor.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +53,11 @@
     "node.js.selected.package.eslint": "(autodetect)"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/fsmbatch" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
